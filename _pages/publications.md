@@ -7,11 +7,11 @@ nav: true
 nav_order: 2
 ---
 
-## Publications
+# Publications
 
 1. **Local systems which do not come from abelian varieties**, with [Joshua Lam](https://www.yhjlam.com/), in Journal de l’École polytechnique — Mathématiques, Volume 12 (2025), pp. 341-350 [link](https://jep.centre-mersenne.org/articles/10.5802/jep.292/), [arXiv 2408.02475](https://arxiv.org/abs/2408.02475)
 
-## Other
+# Other
 
-**Applications to functions on $\mathbb{P}^1\setminus\{0,1,\infty\}$ and irrationality of
+**Applications to functions on $\mathbb{P}^1\setminus {0,1,\infty}$ and irrationality of
 products of logarithms**, Extended abstract for my talk at the Oberwolfach Arbeitsgemeinschaft on Arithmetic Holonomy Bounds and Applications to Irrationality, Oberwolfach Reports Vol. 23 No. 6, pp. 897-966, [link](https://ems.press/journals/owr/articles/14300089)
