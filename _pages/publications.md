@@ -13,5 +13,5 @@ nav_order: 2
 
 ### Other
 
-**Applications to functions on $\mathbb{P}^1\setminus `\{0,1,\infty\}`$ and irrationality of
+1. **Applications to functions on $\mathbb{P}^1\setminus `\{0,1,\infty\}`$ and irrationality of
 products of logarithms**, Extended abstract for my talk at the [Oberwolfach](https://www.mfo.de/about-the-institute/history/boy-surface/karcher_pinkallboy_surface.pdf) Arbeitsgemeinschaft on Arithmetic Holonomy Bounds and Applications to Irrationality, Oberwolfach Reports Vol. 23 No. 6, pp. 897-966, [link](https://ems.press/journals/owr/articles/14300089)
