@@ -9,7 +9,7 @@ nav_order: 2
 
 ### Publications
 
-1. **Local systems which do not come from abelian varieties**, with [Joshua Lam](https://www.yhjlam.com/), in Journal de l’École polytechnique — Mathématiques, Volume 12 (2025), pp. 341-350 [link](https://jep.centre-mersenne.org/articles/10.5802/jep.292/), [arXiv 2408.02475](https://arxiv.org/abs/2408.02475)
+1. **Local systems which do not come from abelian varieties**, with [Joshua Lam](https://www.yhjlam.com/), in Journal de l’École polytechnique — Mathématiques, Volume 12 (2025), pp. 341-350 [journal](https://jep.centre-mersenne.org/articles/10.5802/jep.292/), [arXiv 2408.02475](https://arxiv.org/abs/2408.02475)
 
 ### Other
 
