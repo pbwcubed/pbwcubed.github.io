@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> <a href="mailto:p.brommer-wierig@hu-berlin.de">p.brommer-wierig@hu-berlin.de</a> </p>
-    <p>[Humboldt-Universität zu Berlin](https://www.mathematik.hu-berlin.de/de)</p>
+    <p> <a href="https://www.mathematik.hu-berlin.de/de">Humboldt-Universität zu Berlin</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
