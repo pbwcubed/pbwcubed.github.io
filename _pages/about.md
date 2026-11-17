@@ -28,6 +28,8 @@ latest_posts:
 
 I am a PhD student at Humboldt University Berlin under the supervision of [Bruno Klingler](https://www.math.hu-berlin.de/~klingleb/). Previously, I was an M.Sc student at Freie University Berlin and a B.Sc. student at the Technical University Berlin and the University of Vienna.
 
+My doctoral thesis is about local systems and non-abelian Hodge theory, but I am generally interested in algebraic geometry and number theory.
+
 I am funded by the ERC Grant [TameHodge](https://cordis.europa.eu/project/id/101020009/results). Moreover, I am a member of the [Berlin Mathematical School](https://mathplus.de/early-career-researchers/bms/), and an associate member of the Berlin-Hanover [RTG 2965 - From Geometry to Numbers: Moduli, Hodge Theory, Rational Points](https://sites.google.com/view/rtg-2965).
 
 I am on the job market for postdoctoral positions starting in summer/ fall 2027.
